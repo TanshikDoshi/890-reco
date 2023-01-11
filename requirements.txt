@@ -1,6 +1,0 @@
-nltk @ file:///opt/conda/conda-bld/nltk_1645628263994/work
-numpy==1.24.1
-pandas==1.5.2
-regex @ file:///C:/ci/regex_1658258307256/work
-scikit-learn @ file:///C:/ci/scikit-learn_1642617276183/work
-streamlit==1.16.0
